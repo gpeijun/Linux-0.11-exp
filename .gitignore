@@ -1,3 +1,7 @@
 linux-0.11.tar.gz
 *.o
 *.a
+hdc-0.11.img
+bochsout.txt
+linux-0.11/Image
+linux-0.11/System.map
